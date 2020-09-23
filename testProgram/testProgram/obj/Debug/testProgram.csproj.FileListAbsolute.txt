@@ -1,7 +1,0 @@
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\bin\Debug\testProgram.exe.config
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\bin\Debug\testProgram.exe
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\bin\Debug\testProgram.pdb
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\obj\Debug\testProgram.csprojAssemblyReference.cache
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\obj\Debug\testProgram.csproj.CoreCompileInputs.cache
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\obj\Debug\testProgram.exe
-C:\Users\shahz\Desktop\Algorithms and Data\testProgram\testProgram\obj\Debug\testProgram.pdb
